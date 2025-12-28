@@ -26,3 +26,16 @@ and understanding how SAP supports enterprise-scale retail transformation.
 This project was completed for certification and professional upskilling.
 No confidential, proprietary, or internal company data was used.
 
+## Certifications
+
+This project was completed as part of formal SAP training and certification.
+
+- **SAP Professional Fundamentals**  
+  Issued by SAP via Coursera  
+  Grade achieved: **98%**  
+
+Supporting certificate documents are available in this repository:
+- - [View SAP Certificates](SAP%20CERTIFICATES.pdf)
+
+
+
