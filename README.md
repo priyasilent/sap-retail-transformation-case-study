@@ -1,21 +1,28 @@
 # SAP Retail Transformation Project
 
-This repository contains a SAP S/4HANA retail transformation project
-completed as part of the SAP Professional Fundamentals certification
-on Coursera, focused on job-ready SAP skills and practical application.
+This repository showcases a SAP S/4HANA retail transformation project
+completed as part of the SAP Professional Fundamentals certification on Coursera.
 
-## Project context
-- Certification-driven project for professional upskilling
-- Built to understand how SAP supports large-scale retail transformation
-- Harrods used as a case example based on general industry understanding
+The project focuses on job-ready SAP knowledge, practical business analysis,
+and understanding how SAP supports enterprise-scale retail transformation.
+
+## Project overview
+- SAP Professional Fundamentals certification project
+- Retail transformation using Harrods as a case example
+- Focus on business processes, data integration, and change management
 
 ## What I worked on
 - Retail business process analysis
 - Mapping business challenges to SAP S/4HANA capabilities
-- Process integration and data flow concepts
+- Process integration and ERP data flow concepts
 - Change management and stakeholder considerations
-- Presentation and explanation of SAP-driven solutions
+- Creation of a structured transformation presentation
+
+## Deliverables
+- SAP retail transformation presentation (PDF) in `/presentation`
+- Business and solution context in `/analysis` and `/references`
 
 ## Disclaimer
-This project was completed for certification and professional learning.
-No confidential or proprietary company data was used.
+This project was completed for certification and professional upskilling.
+No confidential, proprietary, or internal company data was used.
+
